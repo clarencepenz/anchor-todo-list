@@ -9,7 +9,7 @@ todo_list_app = "7xZfx4ZGnCiHVeBKhk58MXQ6iRrjdRnxgB29rqLfRZ5a"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "devnet"
+cluster = "Localnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
